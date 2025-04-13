@@ -19,7 +19,6 @@
   
 <p align="center">
     
-  <img align='center' src='https://github.com/richxprams/richxprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
 <a href="https://www.linkedin.com/in/richxprams/" target="_blank">
   <img align="center" alt="xPrams | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
@@ -34,7 +33,6 @@
 </a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/x.prams">
     <img align="center" alt="xPrams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" /> 
-</a> <img align='center' src='https://github.com/richxprams/richxprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
 
 
 &nbsp;&nbsp; 
@@ -229,9 +227,9 @@
 <!-- SPOTIFY -->  
  <p align="center">
 <a href="https://github.com/richxprams/richxprams"> 
-  <img align='center' src='https://github.com/richxprams/richxprams/assets/37227788/c2df1342-d12a-4285-bc1c-a50dd0f23ee2' width='100"'>
+  
   <img align="center" src="https://novatorem.bgstatic.vercel.app/api/spotify"/> 
-    <img align='center' src='https://github.com/richxprams/richxprams/assets/37227788/c2df1342-d12a-4285-bc1c-a50dd0f23ee2' width='100"'>
+    
 </a></center>
 </p>
 <!-- SPOTIFY -->  
