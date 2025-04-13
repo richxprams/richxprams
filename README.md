@@ -8,7 +8,7 @@
 🧟 &nbsp;About Me  
 
 
-- 🧑‍💻 &nbsp; Also known as Kharis and I'm Fulltime researcher.
+- 🧑‍💻 &nbsp; Also known as Prams and I'm Fulltime researcher.
 - 🤔 &nbsp; Exploring new technologies and developing programming insights.
 - 🧑‍🚀 &nbsp; Also learning solidity, smart contract and blockchain.
 - 🎓 &nbsp; Studying Computer Science & Engineering at University of Indonesia.
@@ -26,13 +26,13 @@
 <a href="https://twitter.com/richxprams" target="_blank">
   <img align="center" alt="xPrams | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/khariszone/" target="_blank">
+<a href="https://www.instagram.com/richxprams/" target="_blank">
   <img align="center" alt="xPrams | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
 <a href="mailto:richxprams@gmail.com" >
   <img align="center" alt="xPrams | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/kharisma718">
+<a href="https://www.facebook.com/x.prams">
     <img align="center" alt="xPrams | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" /> 
 </a> <img align='center' src='https://github.com/richxprams/richxprams/assets/37227788/b02e769b-0a96-49fc-a70f-552275461971' width='50'>
 
